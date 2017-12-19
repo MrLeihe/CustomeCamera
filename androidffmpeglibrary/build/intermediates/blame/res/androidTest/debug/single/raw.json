@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/helei/Downloads/Android-CustomCamera-master/G:\\Android_source\\CustomCamera\\Android-CustomCamera\\androidffmpeglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\ffmpeg",
+        "source": "/Users/helei/Downloads/Android-CustomCamera-master/G:\\Android_source\\CustomCamera\\Android-CustomCamera\\androidffmpeglibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\ffmpeg"
+    },
+    {
+        "merged": "/Users/helei/Downloads/Android-CustomCamera-master/C:\\android_source\\Android-CustomCamera\\androidffmpeglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\ffmpeg",
+        "source": "/Users/helei/Downloads/Android-CustomCamera-master/C:\\android_source\\Android-CustomCamera\\androidffmpeglibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\ffmpeg"
+    },
+    {
+        "merged": "/Users/helei/Downloads/Android-CustomCamera-master/androidffmpeglibrary/build/intermediates/res/merged/androidTest/debug/raw/ffmpeg",
+        "source": "/Users/helei/Downloads/Android-CustomCamera-master/androidffmpeglibrary/build/intermediates/bundles/debug/res/raw/ffmpeg"
+    },
+    {
+        "merged": "/Users/helei/Downloads/Android-CustomCamera-master/D:\\Android_coding\\CustomCamera\\CustomCamera\\androidffmpeglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\ffmpeg",
+        "source": "/Users/helei/Downloads/Android-CustomCamera-master/D:\\Android_coding\\CustomCamera\\CustomCamera\\androidffmpeglibrary\\build\\intermediates\\bundles\\debug\\res\\raw\\ffmpeg"
+    }
+]

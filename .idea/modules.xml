@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-CustomCamera.iml" filepath="$PROJECT_DIR$/Android-CustomCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-CustomCamera-master.iml" filepath="$PROJECT_DIR$/Android-CustomCamera-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codelibrary/Codelibrary.iml" filepath="$PROJECT_DIR$/Codelibrary/Codelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomCamera/CustomCamera.iml" filepath="$PROJECT_DIR$/CustomCamera/CustomCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidffmpeglibrary/androidffmpeglibrary.iml" filepath="$PROJECT_DIR$/androidffmpeglibrary/androidffmpeglibrary.iml" />
+    </modules>
+  </component>
+</project>

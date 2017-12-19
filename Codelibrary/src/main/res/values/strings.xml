@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CodeLibrary</string>
+
+    <string name="framework_tishi">提示</string>
+    <string name="framework_dangqianwukeyongwangluo">当前无可用网络,是否前往设置?</string>
+    <string name="framework_shezhi">设置</string>
+    <string name="framework_faxianxinbanben">发现新版本:%1$s\n安装包大小:%2$s\n%3$s</string>
+    <string name="framework_yingyonggengxin">应用更新</string>
+    <string name="framework_xuxiao">取消</string>
+    <string name="framework_hulue">忽略</string>
+    <string name="framework_gengxin">更新</string>
+    <string name="framework_xiazaishibai">更新包下载失败!请重试..</string>
+    <string name="framework_kaishigengxin">开始更新</string>
+    <string name="framework_zhengzaixiazaigengxin">正在下载更新..</string>
+    <string name="update_loading">正在更新请稍候...</string>
+    <string name="download_failed">下载失败，请稍后重试</string>
+    <string name="app_updated">已经是最新版本</string>
+    <string name="Cancel">取消</string>
+    <string name="download_loading_wait">正在下载...</string>
+</resources>
